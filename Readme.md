@@ -2,12 +2,12 @@
 
 # _2D Fighter_ 
 </strong></h1>
-![stonks](https://media.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif)
+![street-fighter](https://media.giphy.com/media/PlgNz2gB8Q2fm/giphy.gif)
 
 #### A Use of Unity and C# to create the framwork for a side scrolling fighter game._ , 2020 ver 1.0.0_
 
 #### By _Ian Gregg & Kyle Hubbard &  Jeff Kim & Sean Downs & Cody Fritz_
-[street fighter](https://media.giphy.com/media/PlgNz2gB8Q2fm/giphy.gif)
+
 
 ## Description
 
