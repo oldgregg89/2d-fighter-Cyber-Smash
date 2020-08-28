@@ -27,18 +27,24 @@ _A Use of Unity and C# to create the framwork for a side scrolling fighter game.
 `dotnet add package Pomelo.EntityFrameworkCore.MySql -v 2.2.0`
 in the terminal
 * If everything is done correctly the home page should look like this:
+![Title Screen](ReadmeAssets/titlescreen.png)
 __
 
-## Specs
+## Project Outline
 
-| Behavior    | Input | Output |
-| :---------- | ----- | -----: |
+![MVP/Stretch Goals](ReadmeAssets/MVPStrech.png)
 
+![Scheduling](ReadmeAssets/Scheduling.png)
 
+* Level design example:
+
+![Level Design](ReadmeAssets/LevelDesign.png)
+
+## Lore
 
 ## Known Bugs
 
-_No known bugs_
+* formating between mac and widows can mess with game build
 
 ## Support and contact details
 
