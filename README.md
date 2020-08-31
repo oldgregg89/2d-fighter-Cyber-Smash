@@ -34,7 +34,7 @@ __
 
 ![MVP/Stretch Goals](ReadmeAssets/MVPStrech.png)
 
-![Scheduling](ReadmeAssets/Scheduling.png)
+![Scheduling](ReadmeAssets/Schedule&dailygoals.png)
 
 * Level design example:
 
